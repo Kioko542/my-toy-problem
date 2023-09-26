@@ -27,7 +27,7 @@ Write a program whose major task is to calculate an individual’s Net Salary by
 
 ## Author
 
-- Your Name
+-Emmanuel Kioko
 - GitHub:https://github.com/Kioko542
 - Email: kioxmanu7@gmail.com
 ## License
