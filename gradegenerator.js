@@ -6,23 +6,23 @@ function grading() {
     let userInput = prompt("please enter your marks !");
     let Input = parseInt(userInput);
     if (isNaN(Input) || Input < 0 || Input > 100) {
-      alert("please enter valid marks between 0-100");
+      alert(" INVALID:please enter valid marks between 0-100"); // an alert indicating that the marks are in-valid
     } else {
-      alert("Valid marks click OK to see results ");
+      alert("Valid marks click OK to see results "); // an alert indicating that the marks are valid
     }
 
 
   if (Input > 79) {
-    alert("A");
+    alert("A"); //alert grade "A" displayed
   } else if (Input >= 60 && Input <= 79) {
-    alert("B");
+    alert("B");//alert grade "B" displayed
   } else if (Input >= 50 && Input <= 59) {
-    alert("C");
+    alert("C");//alert grade "C" displayed
   } else if (Input >= 40 && Input <= 49) {
-    alert("D");
+    alert("D");//alert grade "D" displayed
   }
    else {
-    alert("E");
+    alert("E");//alert grade "E" displayed
   }
 }
 grading();
