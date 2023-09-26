@@ -31,4 +31,4 @@ Write a program whose major task is to calculate an individual’s Net Salary by
 - GitHub:https://github.com/Kioko542
 - Email: kioxmanu7@gmail.com
 ## License
-
+This project is licensed under the MIT License(LICENSE) - see the [LICENSE](LICENSE) file for details.
